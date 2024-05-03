@@ -3,6 +3,9 @@
 ## Executive Summary:
 An analysis of the historical budget allocations for space missions, adjusted for inflation, categorized by destination and fiscal year using SQL. The analysis aims to uncover trends in funding across different space exploration destinations over time, providing valuable insights into NASA's budgetary priorities and strategic focus.
 
+## Public Dataset:
+https://www.planetary.org/space-policy/planetary-exploration-budget-dataset
+
 ## Methodology:
 The analysis involved the following steps:
 1.	Data Retrieval: Data was sourced from the mission_budgets, inflation, and mission_details tables within the NASA database.
